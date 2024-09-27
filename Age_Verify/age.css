@@ -1,0 +1,22 @@
+
+
+
+
+.div1{
+    position: relative;
+    display: inline;
+}
+
+.div2{
+        display: inline;
+        position: absolute;
+        
+}
+
+.span{
+    display: grid;
+    place-items: center;
+    display: block;
+    margin-left:42.5%;
+
+}
